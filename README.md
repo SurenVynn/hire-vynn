@@ -1,6 +1,3 @@
-# hire-vynn
-My public portfolio: formal logic models, philosophical frameworks, and interdisciplinary projects at the intersection of law, culture, and systems thinking.
-
 # Hire Me – Vynn Suren  
 *Philosopher • Researcher • Systems Thinker*  
 
