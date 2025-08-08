@@ -9,7 +9,7 @@ I design and investigate complex systems — moral, legal, cultural, and technic
 
 ## 📌 Selected Projects
 
-### 1. **Normplex: Dyadic Obligation Networks**
+### 1. **Normative Obligation Network Theory (NONT): A Relational Model of Agency in Moral Space**
 - Formal framework for mapping obligations and permissions between agents using **STIT logic** and **network theory**.
 - Developed the **Relational Deontic Bundle** model for multi-agent normative relationships.
 - **Applications:** legal reasoning systems, AI ethics, governance design.
